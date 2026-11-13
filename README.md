@@ -1,30 +1,25 @@
-This repository contains research reports, valuation models, and presentations I've worked on individually and alongside other analysts through URI Portfolio Management, as well as projects completed during my studies.
+# Equity Research & Valuation Projects
 
-Equity Research
+I'm an economics student at the University of Regina with an interest in equity research, financial markets, and investment management.
 
-Tourmaline Oil (TOU) | CFA Institute Research Challenge
+This repository contains research reports, valuation models, and presentations I've worked on individually and with other analysts through URI Portfolio Management, as well as an academic economics project.
 
-NAV valuation, commodity price analysis, and equity research.
+## Equity Research
 
-Buy recommendation with 12.2% potential upside; placed 2nd among 8 Western Canadian universities.
+### [Tourmaline Oil (TOU) — CFA Institute Research Challenge](Tourmaline_Oil/)
+NAV valuation, commodity price scenarios, and a buy recommendation with 12.2% estimated potential upside. Our team placed second among eight Western Canadian universities.
 
-Capital Power (CPX)
+### [Capital Power (CPX)](Capital_Power/)
+Fundamental equity research, SOTP valuation, and comparable company analysis.
 
-SOTP valuation, comparable company analysis, and investment research.
+### [Duke Energy (DUK)](Duke_Energy/)
+Utility sector research, financial valuation, and an investment recommendation.
 
-Duke Energy (DUK)
+## Economic Analysis
 
-Fundamental equity research, financial modelling, and investment recommendation.
+### [SaskPower Rose Valley Wind Project — ECON 351](SaskPower_Cost_Benefit_Analysis/)
+30-year cost-benefit analysis of a proposed 200 MW wind project. Estimated $1.67B in net economic benefits under the project's assumptions.
 
-Economic Analysis
+---
 
-SaskPower Rose Valley Wind Project | ECON 351
-
-30-year cost-benefit analysis of a proposed 200 MW wind project.
-
-Estimated $1.67B in net benefits using NPV and sensitivity analysis.
-
-Contact
-
-Atlas Maze# Equity_Research_and_Valuation_Projects
-A collection of individual and collaborative equity research, financial valuation models, and economic analyses completed through URI Portfolio Management and university coursework.
+*These projects reflect historical research and coursework, not current investment recommendations. Supporting files will be added after confirming they may be shared publicly.*
