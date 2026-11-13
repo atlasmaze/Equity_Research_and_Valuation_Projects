@@ -15,7 +15,7 @@ Fundamental equity research, SOTP valuation, and comparable company analysis.
 ## Economic Analysis
 
 ### [SaskPower Rose Valley Wind Project — ECON 351](SaskPower_Cost_Benefit_Analysis/)
-30-year cost-benefit analysis of a proposed 200 MW wind project. Estimated $1.67B in net economic benefits under the project's assumptions.
+30-year cost-benefit analysis of a proposed 200 MW wind project, including scenario testing and social NPV estimates of C$309.0M, C$147.1M, and C$33.1M at 3%, 5%, and 7% discount rates in the base case.
 
 ---
 
