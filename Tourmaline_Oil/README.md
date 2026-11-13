@@ -1,20 +1,20 @@
-# Tourmaline Oil (TOU) — Equity Research
+# Tourmaline Oil (TOU) | CFA Institute Research Challenge
 
-Team research completed for the 2025–26 CFA Institute Research Challenge.
+**Equity research | Team G | 2025–2026**
 
-## Approach
-- Net asset value (NAV) modelling using estimated ultimate recovery, proved reserves, and commodity price scenarios
-- Fundamental company and industry research
-- Analysis of valuation upside and investment risks
+Our team prepared a buy recommendation on Tourmaline Oil, combining fundamental analysis of the Canadian natural gas industry with NAV and relative valuation. The research identified a **C$65.47 target price**, or **12.2% potential upside** from the January 8, 2026 reference price of C$58.35.
 
-## Result
-Presented a buy recommendation with an estimated 12.2% potential upside. The team placed second among eight competing Western Canadian universities.
+## Research highlights
+- Reviewed Tourmaline's operating assets, reserve base, commodity exposure, and competitive position
+- Used reserve-based NAV and EV/boe/d relative valuation, weighted 70% and 30%, respectively
+- Tested valuation sensitivity to commodity pricing and operating assumptions
+- Presented the recommendation as part of the CFA Institute Research Challenge; our team placed second among eight Western Canadian universities
 
-## My contribution
-Led the NAV valuation within the team project.
+**My contribution:** Led the NAV valuation work as part of the team.
 
-## Project materials (to be uploaded)
-- **Equity Research Report (PDF)** — team research, valuation, and investment thesis
-- **Investment Pitch Deck (PDF)** — presentation prepared for the CFA Institute Research Challenge
+## Project documents
+To be uploaded:
+- `Tourmaline_Equity_Research_Report.pdf` — written research report
+- `Tourmaline_Investment_Pitch_Deck.pdf` — presentation to competition judges
 
-*The recommendation and valuation reflect the research date, not a current investment view. Materials will be posted once cleared for public sharing.*
+*Student research prepared for an educational competition. Prices and views reflect the January 2026 research date and are not current investment advice.*
