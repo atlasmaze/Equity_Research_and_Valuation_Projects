@@ -13,7 +13,8 @@ Presented a buy recommendation with an estimated 12.2% potential upside. The tea
 ## My contribution
 Led the NAV valuation within the team project.
 
-## Project files
-Approved research and presentation materials will be added here when available.
+## Project materials (to be uploaded)
+- **Equity Research Report (PDF)** — team research, valuation, and investment thesis
+- **Investment Pitch Deck (PDF)** — presentation prepared for the CFA Institute Research Challenge
 
-*The recommendation and valuation reflect the research date, not a current investment view.*
+*The recommendation and valuation reflect the research date, not a current investment view. Materials will be posted once cleared for public sharing.*
