@@ -1,18 +1,24 @@
 # Capital Power (CPX) — Equity Research & Valuation
 
-Equity research completed through URI Portfolio Management, covering Capital Power's generation business, financial performance, and investment outlook.
+Equity research completed with another analyst through URI Portfolio Management, examining Capital Power's generation assets, financial performance, and investment outlook.
 
-## Approach
-- Segment-level sum-of-the-parts (SOTP) valuation using relevant trading multiples
+## Investment recommendation
+- **Rating:** Buy
+- **Price at recommendation (March 23, 2026):** C$61.20
+- **12-month price target:** C$75.00
+- **Implied price upside:** approximately 22.5%
+
+The thesis focused on stable contracted cash flows, growing demand for dispatchable gas-fired power, and opportunities for portfolio optimization and recontracting.
+
+## Valuation approach
+- Discounted cash flow (DCF) analysis
+- Segment-level sum-of-the-parts (SOTP) valuation
+- Dividend discount model (DDM)
 - Comparable company analysis and sensitivity testing
-- Review of industry conditions, potential catalysts, and investment risks
-
-## Research
-Prepared an equity research report and presented a buy recommendation to the Investment Council.
 
 ## Project materials (to be uploaded)
-- **Equity Research Report (PDF)** — investment thesis, company analysis, valuation, and risks
-- **Investment Pitch Deck (PDF)** — presentation of the buy recommendation
-- **Valuation Model (Excel)** — supporting financial model and sensitivity analysis
+- **Equity research report (PDF)** — detailed company, industry, financial, and risk analysis
+- **Investment pitch deck (PDF)** — recommendation and supporting valuation
+- **Valuation model (Excel)** — valuation assumptions, financial analysis, and sensitivities
 
-*This is historical student research, not current investment advice. Materials will be posted once cleared for public sharing.*
+*This is historical collaborative student research, not current investment advice. Supporting documents will be uploaded once approved for public sharing.*
