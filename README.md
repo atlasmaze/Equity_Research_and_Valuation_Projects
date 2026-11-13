@@ -12,9 +12,6 @@ NAV valuation, commodity price scenarios, and a buy recommendation with 12.2% es
 ### [Capital Power (CPX)](Capital_Power/)
 Fundamental equity research, SOTP valuation, and comparable company analysis.
 
-### [Duke Energy (DUK)](Duke_Energy/)
-Utility sector research, financial valuation, and an investment recommendation.
-
 ## Economic Analysis
 
 ### [SaskPower Rose Valley Wind Project — ECON 351](SaskPower_Cost_Benefit_Analysis/)
