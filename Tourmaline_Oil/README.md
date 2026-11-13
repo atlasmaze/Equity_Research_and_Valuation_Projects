@@ -1,19 +1,20 @@
-# Tourmaline Oil (TOU) | CFA Institute Research Challenge
+# Tourmaline Oil (TOU) — CFA Institute Research Challenge
 
-**Equity research | Team G | 2025–2026**
+**Team G | 2025–2026**
 
-Our team prepared a buy recommendation on Tourmaline Oil, combining fundamental analysis of the Canadian natural gas industry with NAV and relative valuation. The research identified a **C$65.47 target price**, or **12.2% potential upside** from the January 8, 2026 reference price of C$58.35.
+Our team researched Tourmaline Oil and presented a buy recommendation at the CFA Institute Research Challenge in Calgary. We placed **top 3 among eight competing Western Canadian schools**.
 
-## Research highlights
-- Reviewed Tourmaline's operating assets, reserve base, commodity exposure, and competitive position
-- Used reserve-based NAV and EV/boe/d relative valuation, weighted 70% and 30%, respectively
-- Tested valuation sensitivity to commodity pricing and operating assumptions
-- Presented the recommendation as part of the CFA Institute Research Challenge; our team placed second among eight Western Canadian universities
+We arrived at a **C$65.47 target price**, or **12.2% potential upside** from the C$58.35 share price on January 8, 2026.
 
-**My contribution:** Led the NAV valuation work as part of the team.
+## Research and valuation
+- Reviewed Tourmaline's operations, reserves, and exposure to Canadian natural gas markets
+- Combined NAV (70%) and EV/boe/d comparable valuation (30%) to estimate the target price
+- Tested commodity price assumptions and discussed the main risks to our recommendation
 
-## Project documents
-- [**Equity Research Report (PDF)**](Tourmaline_Equity_Research_Report.pdf) — written research report
-- [**Investment Pitch Deck (PDF)**](Tourmaline_Investment_Pitch_Deck.pdf) — presentation to competition judges
+I led the NAV valuation work as part of the team.
 
-*Student research prepared for an educational competition. Prices and views reflect the January 2026 research date and are not current investment advice.*
+## Files
+- [Equity research report (PDF)](Tourmaline_Equity_Research_Report.pdf)
+- [Investment pitch deck (PDF)](Tourmaline_Investment_Pitch_Deck.pdf)
+
+*This was a student research project. The valuation and recommendation reflect January 2026, not today's market.*
