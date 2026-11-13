@@ -1,22 +1,24 @@
 # Equity Research & Valuation Projects
 
-I'm an economics student at the University of Regina with an interest in equity research, financial markets, and investment management.
+I'm an economics student at the University of Regina interested in equity research, financial markets, and investment management.
 
-This repository contains research reports, valuation models, and presentations I've worked on individually and with other analysts through URI Portfolio Management, as well as an academic economics project.
+This portfolio brings together research prepared individually and with fellow analysts through URI Portfolio Management, alongside a cost-benefit analysis completed for ECON 351.
 
 ## Equity Research
 
-### [Tourmaline Oil (TOU) — CFA Institute Research Challenge](Tourmaline_Oil/)
-NAV valuation, commodity price scenarios, and a buy recommendation with 12.2% estimated potential upside. Our team placed second among eight Western Canadian universities.
+### [Tourmaline Oil (TOU) | CFA Institute Research Challenge](Tourmaline_Oil/)
+Team equity research using NAV and relative valuation. Our January 2026 buy recommendation had a C$65.47 price target (12.2% estimated upside). The team placed second among eight Western Canadian universities.
 
-### [Capital Power (CPX)](Capital_Power/)
-Fundamental equity research, SOTP valuation, and comparable company analysis.
+### [Capital Power (CPX) | Equity Research & Valuation](Capital_Power/)
+Collaborative research on a North American power producer using DCF, SOTP, and dividend discount valuations. Our March 2026 buy recommendation had a C$75 target price (approximately 22.5% estimated upside).
 
 ## Economic Analysis
 
-### [SaskPower Rose Valley Wind Project — ECON 351](SaskPower_Cost_Benefit_Analysis/)
-30-year cost-benefit analysis of a proposed 200 MW wind project, including scenario testing and social NPV estimates of C$309.0M, C$147.1M, and C$33.1M at 3%, 5%, and 7% discount rates in the base case.
+### [SaskPower Rose Valley Wind Project | Cost-Benefit Analysis](SaskPower_Cost_Benefit_Analysis/)
+Individual ECON 351 project evaluating a proposed 200 MW wind facility over 30 years, including cost-benefit modelling and sensitivity analysis across 3%, 5%, and 7% discount rates.
 
 ---
 
-*These projects reflect historical research and coursework, not current investment recommendations. Supporting files will be added after confirming they may be shared publicly.*
+Project pages summarize the research. Supporting reports, presentations, and models are being prepared for upload.
+
+*These are historical student analyses, not current investment recommendations or official assessments by the companies discussed.*
