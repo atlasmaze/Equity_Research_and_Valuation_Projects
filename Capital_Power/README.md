@@ -1,24 +1,19 @@
-# Capital Power (CPX) — Equity Research & Valuation
+# Capital Power (CPX) | Equity Research & Valuation
 
-Equity research completed with another analyst through URI Portfolio Management, examining Capital Power's generation assets, financial performance, and investment outlook.
+**Equity research | URI Portfolio Management | March 2026**
 
-## Investment recommendation
-- **Rating:** Buy
-- **Price at recommendation (March 23, 2026):** C$61.20
-- **12-month price target:** C$75.00
-- **Implied price upside:** approximately 22.5%
+Our research evaluated Capital Power's electricity generation portfolio, financial performance, and growth opportunities in North American power markets. We presented a **buy recommendation** with a **C$75.00 target price** against a **C$61.20 reference price**, implying approximately **22.5% potential upside**.
 
-The thesis focused on stable contracted cash flows, growing demand for dispatchable gas-fired power, and opportunities for portfolio optimization and recontracting.
+## Research highlights
+- Assessed contracted cash flows, merchant power exposure, and demand for flexible generation
+- Built a blended valuation using DCF, segment-level SOTP, and a dividend discount model
+- Used peer trading multiples and sensitivity analysis to evaluate valuation ranges
+- Reviewed key risks including power prices, regulation, financing, and project execution
 
-## Valuation approach
-- Discounted cash flow (DCF) analysis
-- Segment-level sum-of-the-parts (SOTP) valuation
-- Dividend discount model (DDM)
-- Comparable company analysis and sensitivity testing
+## Project documents
+To be uploaded:
+- `Capital_Power_Equity_Research_Report.pdf` — written research report
+- `Capital_Power_Investment_Pitch_Deck.pdf` — Investment Council presentation
+- `Capital_Power_Valuation_Model.xlsx` — supporting valuation workbook
 
-## Project materials (to be uploaded)
-- **Equity research report (PDF)** — detailed company, industry, financial, and risk analysis
-- **Investment pitch deck (PDF)** — recommendation and supporting valuation
-- **Valuation model (Excel)** — valuation assumptions, financial analysis, and sensitivities
-
-*This is historical collaborative student research, not current investment advice. Supporting documents will be uploaded once approved for public sharing.*
+*Collaborative student investment research. Prices and views reflect March 2026, not current investment advice.*
