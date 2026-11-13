@@ -13,8 +13,7 @@ Our team prepared a buy recommendation on Tourmaline Oil, combining fundamental 
 **My contribution:** Led the NAV valuation work as part of the team.
 
 ## Project documents
-To be uploaded:
-- `Tourmaline_Equity_Research_Report.pdf` — written research report
-- `Tourmaline_Investment_Pitch_Deck.pdf` — presentation to competition judges
+- [**Equity Research Report (PDF)**](Tourmaline_Equity_Research_Report.pdf) — written research report
+- [**Investment Pitch Deck (PDF)**](Tourmaline_Investment_Pitch_Deck.pdf) — presentation to competition judges
 
 *Student research prepared for an educational competition. Prices and views reflect the January 2026 research date and are not current investment advice.*
